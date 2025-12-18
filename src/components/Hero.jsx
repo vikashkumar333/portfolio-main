@@ -2,7 +2,7 @@ import React from 'react';
 import { motion } from 'framer-motion';
 import { FaLinkedin, FaGithub, FaDownload, FaRocket, FaPhone, FaEnvelope } from 'react-icons/fa';
 import './Hero.css';
-import assect from '../assets/Vikash_Resume.pdf'
+import assect from '../assets/vikash kumar resume.pdf'
 
 const Hero = () => {
     return (
