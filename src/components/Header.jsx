@@ -27,7 +27,7 @@ const Header = () => {
                         <polyline points="10 25, 17 18, 25 22, 30 15" stroke="#14b8a6" strokeWidth="3" fill="none" strokeLinecap="round" strokeLinejoin="round" />
                         <circle cx="30" cy="15" r="3" fill="#14b8a6" />
                     </svg>
-                    <h1 className="gradient-text">VIKASH</h1>
+                    <h1 className="gradient-text">VIKASH KUMAR</h1>
                 </a>
 
                 <nav className="nav-links">
