@@ -33,7 +33,7 @@ const Footer = () => {
                 >
                     <h3>Contact Information</h3>
                     <div className="contact-links">
-                        <p><FaPhone /> <a href="tel:+918836824333">+91 8836824333</a></p>
+                        <p><FaPhone /> <a href="tel:+918935824333">+91 8935824333</a></p>
                         <p><FaEnvelope /> <a href="mailto:vikashkumar23054@gmail.com">vikashkumar23054@gmail.com</a></p>
                         <p className="note" style={{ fontSize: '0.85rem', marginTop: '15px', color: '#64748b' }}>
                             Always open for freelance, collaborations, and full-time roles.

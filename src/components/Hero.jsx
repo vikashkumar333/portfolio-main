@@ -7,7 +7,7 @@ import assect from '../assets/Vikash_Resume.pdf'
 const Hero = () => {
     return (
         <section id="about" className="hero-section">
-            <div className="hero-container">    
+            <div className="hero-container">
                 <motion.div
                     className="hero-left"
                     initial={{ opacity: 0, x: -50 }}
@@ -49,7 +49,7 @@ const Hero = () => {
                         <h3 className="summary-title">Quick Connect</h3>
                         <div className="summary-content">
                             <div className="summary-item">
-                                <FaPhone color="#14b8a6" /> +91 8836824333
+                                <FaPhone color="#14b8a6" /> +91 8935824333
                             </div>
                             <div className="summary-item">
                                 <FaEnvelope color="#14b8a6" /> <a href="mailto:vikashkumar23054@gmail.com" className="contact-link">vikashkumar23054@gmail.com</a>
